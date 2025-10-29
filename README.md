@@ -3,6 +3,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=72&duration=4000&pause=300&color=5e87df&center=true&vCenter=true&repeat=false&random=false&width=1300&height=120&lines=Hi,+I'm+Far4Ru+" width="70%" />
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=far4ru&style=flat-square&color=blue" alt=""/>
+<img src="https://img.shields.io/badge/russian-native-brightgreen" alt=""/>
+<img src="https://img.shields.io/badge/english-B2-blue" alt=""/>
+<img src="https://img.shields.io/badge/chinese-basic-lightgrey" alt=""/>
+<img src="https://img.shields.io/badge/japanese-basic-lightgrey" alt=""/>
+<!-- <img src="https://img.shields.io/badge/french-basic-lightgrey" alt=""/> -->
 </p>
 <br/>
 <pre>
