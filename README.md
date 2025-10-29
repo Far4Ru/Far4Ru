@@ -1,32 +1,31 @@
 
 <img src="https://raw.githubusercontent.com/Far4Ru/Far4Ru/main/right-image.png" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=72&duration=4000&pause=300&color=5e87df&center=true&vCenter=true&repeat=false&random=false&width=1300&height=120&lines=Hi,+I'm+Far4Ru+" width="70%" />
-<p align="center">
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=far4ru&style=flat-square&color=blue" alt=""/>
 <img src="https://img.shields.io/badge/russian-native-brightgreen" alt=""/>
 <img src="https://img.shields.io/badge/english-B2-blue" alt=""/>
 <img src="https://img.shields.io/badge/chinese-basic-lightgrey" alt=""/>
 <img src="https://img.shields.io/badge/japanese-basic-lightgrey" alt=""/>
 <!-- <img src="https://img.shields.io/badge/french-basic-lightgrey" alt=""/> -->
-</p>
 <br/>
+<br/>
+    
 <pre>
     🧑‍💻 CS Student @ ITMO • Programmer • Flutter Enjoyer <!-- computer science -->
     🎓 BS @ SUTD (2027) • Cooler programmer • Designer <!-- bachelor of science -->
-    💼 SWE @ NDA • Game dev • Full-Stack <!-- software engineer -->
-    💻 TypeScript • Phaser • Flutter
+    💼 SWE @ NDA • Game dev • Full-Stack Developer <!-- software engineer -->
+    💻 TypeScript • JavaScript • Phaser • Flutter
 <!--    🔧 Git • Docker • VS Code • Android Studio
     📚 Babylon.js • Blender
     🎯 Clean Code • Scalable Architecture • Best Practices
     🕹️ Game Name
 -->    🎨 UX/UI • Figma • Graphics • Web Animation
-    📖 Software architecture • Performance optimization
+    📖 Software architecture • Optimizations
     🎮 Games • Music • Anime • Code • Art
-    🐾 Darwin 🐢 • Northern Catalpa & Weeping Fig 🌱
+    🐾 Darwin 🐢 • Northern Catalpa 🌱
 </pre>
-<div align="center">
-
-
+    
 <br/>
 
 [![Gmail](https://img.shields.io/badge/gmail-34A853)](mailto:far4ru@gmail.com)
