@@ -24,6 +24,8 @@
     📖 Software architecture • Optimizations
     🎮 Games • Music • Anime • Code • Art
     🐾 Darwin 🐢 • Northern Catalpa 🌱
+
+    Currently investigating C# and .NET opportunities
 </pre>
     
 <br/>
