@@ -13,7 +13,7 @@
     
 <pre>
     🧑‍💻 CS Student @ ITMO • Programmer • Flutter Enjoyer <!-- computer science -->
-    🎓 BS @ SUTD (2027) • Cooler programmer • Designer <!-- bachelor of science -->
+    🎓 BS @ SUITD • Programmer • Designer • Game dev <!-- bachelor of science -->
     💼 SWE @ NDA • Game dev • Full-Stack Developer <!-- software engineer -->
     💻 TypeScript • JavaScript • Phaser • Flutter
 <!--    🔧 Git • Docker • VS Code • Android Studio
@@ -24,8 +24,6 @@
     📖 Software architecture • Optimizations
     🎮 Games • Music • Anime • Code • Art
     🐾 Darwin 🐢 • Northern Catalpa 🌱
-
-    Currently investigating C# and .NET opportunities
 </pre>
     
 <br/>
